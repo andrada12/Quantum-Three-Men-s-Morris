@@ -1,1 +1,1 @@
-# game about squares
+# Quantum Three Men's Morris
