@@ -1,1 +1,1 @@
-# mini database
+# game about squares
